@@ -1069,9 +1069,8 @@ msgstr "Vasco"
 msgid "Begin time"
 msgstr "Hora inicio"
 
-#
-msgid "Behavior of 'pause' when paused"
-msgstr "Función de tecla 'pausa' cuando está parado"
+msgid "Behavior of 'pause and ok' when paused"
+msgstr ""
 
 #
 msgid "Behavior of 0 key in PiP-mode"
@@ -1485,9 +1484,10 @@ msgstr ""
 "Configure si y cómo los iconos de encryptado se mostrarán en la lista de "
 "canales."
 
-msgid ""
-"Configure if and how service type icons will be shown in the channel "
-"selection list."
+msgid "Configure if and how long the latest service in the PiP will be remembered."
+msgstr ""
+
+msgid "Configure if and how service type icons will be shown in the channel selection list."
 msgstr ""
 "Configure si y cómo los iconos del tipo de servicio se mostrarán en la lista "
 "de canales."
@@ -1512,11 +1512,6 @@ msgstr "Configurar interfaz"
 msgid "Configure nameservers"
 msgstr "Configurar DNSs"
 
-msgid ""
-"Configure of and how long the latest service in the PiP will be remembered."
-msgstr ""
-"Configurar como y cuánto tiempo se recordará el último servicio en el PiP."
-
 msgid "Configure on which devices the background delete option should be used."
 msgstr ""
 "Configuración de los dispositivos que se deben utilizar la opción de "
@@ -1536,9 +1531,7 @@ msgstr "Configurar interfaz"
 msgid "Configure the aspect ratio of the screen."
 msgstr "Configurar relación de aspecto de la pantalla."
 
-msgid ""
-"Configure the behavior of the 'pause' key when movie playback is already "
-"paused."
+msgid "Configure the behavior of the 'pause and ok' key when movie playback is already paused."
 msgstr ""
 "Configurar el comportamiento de la tecla \"pausa\" en la reproducción de "
 "películas si ya está en pausa."
@@ -2631,6 +2624,12 @@ msgstr "Guía de Programación Electrónica"
 msgid "Enable"
 msgstr "Activar"
 
+msgid "Enable 'neutrino' style channel select controlling"
+msgstr ""
+
+msgid "Enable 'neutrino' style zap controlling"
+msgstr ""
+
 #
 msgid "Enable 5V for active antenna"
 msgstr "Activar 5V para la antena activa"
@@ -2670,10 +2669,6 @@ msgstr "Habilitar freesat EPG"
 #
 msgid "Enable multiple bouquets"
 msgstr "Habilitar multiples listas"
-
-#
-msgid "Enable neutrino style zap controlling"
-msgstr "habiliatr estilo neutrino para control del zaping"
 
 #
 msgid "Enable parental control"
@@ -3727,6 +3722,9 @@ msgstr[1] "Versión de lista %d, encontrada %d canales"
 msgid "Listen to the radio..."
 msgstr "Escuchar la radio..."
 
+msgid "Lists reloaded!"
+msgstr ""
+
 #
 msgid "Lithuanian"
 msgstr "Lituano"
@@ -4596,6 +4594,9 @@ msgstr "Parar película al final"
 #
 msgid "Pause playback"
 msgstr "Pausar reproducción"
+
+msgid "Pauze/Continue playback"
+msgstr ""
 
 msgid "Percentage left"
 msgstr "Porciento a la izqda."
@@ -7290,6 +7291,9 @@ msgstr "Tipo de grabación"
 msgid "Timeshift"
 msgstr "Grabación en diferido"
 
+msgid "Timeshift Live"
+msgstr ""
+
 #
 msgid "Timeshift location"
 msgstr "Ruta para grabación en diferido"
@@ -8045,9 +8049,10 @@ msgstr "¿Qué quiere buscar?"
 msgid "When enabled the PiP can be closed by the exit button."
 msgstr "Cuando la función PiP está activada se puede cerrar con el botón exit."
 
-msgid ""
-"When enabled the arrow buttons around the OK button will follow the neutrino "
-"style zap controls instead of the enigma2 style."
+msgid "When enabled the arrow buttons around the OK button will follow the 'neutrino' style zap controls instead of the enigma2 style."
+msgstr ""
+
+msgid "When enabled the left, right, CH+/-, B+/-, P+/- buttons will follow the 'neutrino' style zap controls instead of the enigma2 style."
 msgstr ""
 "Cuando se habilitan los botones de flechas alrededor del botón OK se usarán "
 "los controles zapear estilo neutrino en lugar de estilo enigma2."
