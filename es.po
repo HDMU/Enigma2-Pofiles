@@ -9963,7 +9963,7 @@ msgid "Committed DiSEqC command"
 msgstr "Comando DISEqC enviado"
 
 msgid "Remote Control Setup"
-msgstr "Ajustar mando a distancia"
+msgstr "Configurar mando a distancia"
 
 msgid "Language/Timezone"
 msgstr "Idioma/Zona horaria"
