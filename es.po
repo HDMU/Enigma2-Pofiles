@@ -1070,7 +1070,7 @@ msgid "Begin time"
 msgstr "Hora inicio"
 
 msgid "Behavior of 'pause and ok' when paused"
-msgstr ""
+msgstr "Comportamiento de 'Pausa y OK' cuando esta pausado"
 
 #
 msgid "Behavior of 0 key in PiP-mode"
@@ -1485,7 +1485,7 @@ msgstr ""
 "canales."
 
 msgid "Configure if and how long the latest service in the PiP will be remembered."
-msgstr ""
+msgstr "Configure si y cuánto tiempo el último servicio del PiP será recordado."
 
 msgid "Configure if and how service type icons will be shown in the channel selection list."
 msgstr ""
@@ -2625,10 +2625,10 @@ msgid "Enable"
 msgstr "Activar"
 
 msgid "Enable 'neutrino' style channel select controlling"
-msgstr ""
+msgstr "Habilitar control de canales al estilo 'neutrino'"
 
 msgid "Enable 'neutrino' style zap controlling"
-msgstr ""
+msgstr "Habilitar control de zapeo al estilo 'neutrino'"
 
 #
 msgid "Enable 5V for active antenna"
@@ -3723,7 +3723,7 @@ msgid "Listen to the radio..."
 msgstr "Escuchar la radio..."
 
 msgid "Lists reloaded!"
-msgstr ""
+msgstr "¡Listas recargadas!"
 
 #
 msgid "Lithuanian"
@@ -4596,7 +4596,7 @@ msgid "Pause playback"
 msgstr "Pausar reproducción"
 
 msgid "Pauze/Continue playback"
-msgstr ""
+msgstr "Pausar/Reanudar la reproducción"
 
 msgid "Percentage left"
 msgstr "Porciento a la izqda."
@@ -7292,11 +7292,11 @@ msgid "Timeshift"
 msgstr "Grabación en diferido"
 
 msgid "Timeshift Live"
-msgstr ""
+msgstr "Timeshift en vivo"
 
 #
 msgid "Timeshift location"
-msgstr "Ruta para grabación en diferido"
+msgstr "Ubicación grabación en diferido"
 
 #
 msgid "Timeshift not possible!"
@@ -8050,19 +8050,13 @@ msgid "When enabled the PiP can be closed by the exit button."
 msgstr "Cuando la función PiP está activada se puede cerrar con el botón exit."
 
 msgid "When enabled the arrow buttons around the OK button will follow the 'neutrino' style zap controls instead of the enigma2 style."
-msgstr ""
+msgstr "Cuando se activa, las flechas alrededor del botón OK funcionaran como controles de zapeo al estilo 'neutrino' en lugar de enigma2."
 
 msgid "When enabled the left, right, CH+/-, B+/-, P+/- buttons will follow the 'neutrino' style zap controls instead of the enigma2 style."
-msgstr ""
-"Cuando se habilitan los botones de flechas alrededor del botón OK se usarán "
-"los controles zapear estilo neutrino en lugar de estilo enigma2."
+msgstr "Cuando se activa, laos botones izquierda, derecha, CH+/-, B+/-, P+/- seguirán los controles zap estilo 'neutrino' en lugar de enigma2."
 
-msgid ""
-"When enabled you can specify a timeframe to ignore the shutdown timer when "
-"the receiver is in standby mode"
-msgstr ""
-"Cuando se habilita, puede especificar un período de tiempo para ignorar el "
-"temporizador de apagado, cuando el receptor está en reposo"
+msgid "When enabled you can specify a timeframe to ignore the shutdown timer when the receiver is in standby mode"
+msgstr "Cuando se habilita, puede especificar un período de tiempo para ignorar el temporizador de apagado, cuando el receptor está en reposo"
 
 msgid ""
 "When enabled you can specify a timeframe were the inactivity sleeptimer is "
