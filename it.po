@@ -129,7 +129,7 @@ msgid " (TV)"
 msgstr " (TV)"
 
 msgid " (disabled)"
-msgstr ""
+msgstr " (disabilitato)"
 
 msgid " (higher than any auto)"
 msgstr ""
@@ -141,7 +141,7 @@ msgid " (lower than any auto)"
 msgstr ""
 
 msgid " extensions."
-msgstr " estensioni"
+msgstr " estensioni."
 
 msgid " ms"
 msgstr " ms"
@@ -198,8 +198,8 @@ msgstr[1] "Trovati %d canali."
 #, python-format
 msgid "%d file"
 msgid_plural "%d files"
-msgstr[0] "%d Datei"
-msgstr[1] "%d Dateien"
+msgstr[0] "%d file"
+msgstr[1] "%d file"
 
 #, python-format
 msgid "%d hour"
@@ -292,7 +292,7 @@ msgstr[1] "Disponibili %s pacchetti aggiornati"
 
 #, python-format
 msgid "%s%d min"
-msgstr ""
+msgstr "%s%d min"
 
 #, python-format
 msgid "%s/%s: %s"
