@@ -8230,51 +8230,14 @@ msgstr ""
 msgid "zapped"
 msgstr "เปลี่ยนช่องแล้ว"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "ภาพซ้อนภาพ"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "บันทึกรายการ (หยุดเมื่อจบรายการ)"
-
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "ดาวเทียมทั้งหมด"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "คำสั่ง Committed DiSEqC"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC repeats"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "ไม่พบอุปกรณ์ดาวเทียม"
-
-#~ msgid "Remove timer"
-#~ msgstr "เอาตารางเวลานี้ออก"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "ส่งคำสั่ง DiSEqC"
-
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "รายการต่อไป"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "คำสั่ง Uncommitted DiSEqC"
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "ย้ายไปยังช่องบริกการก่อนที่ค้นหาดาวเทียม"
+msgid "History"
+msgstr ""

@@ -9569,62 +9569,14 @@ msgstr ""
 msgid "zapped"
 msgstr "knipt"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "PIP ynskeakelje"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "opnimmen tafoegje (stopje nei dit barren)"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Alle Satellyten"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Oanwizen DiSEqC kommando"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC herhellingen"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Gjin sattelyt foarein fûn."
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Stjoer DiSEqC"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "folgend kanaal"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Net oanwizen DiSEqC kommando"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Werom zappe nei kanaal foar satellytsyker?"
+msgid "History"
+msgstr ""

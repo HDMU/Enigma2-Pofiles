@@ -8280,54 +8280,14 @@ msgstr ""
 msgid "zapped"
 msgstr "prepnuté"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Zapnúť obraz v obraze"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "pridať nahrávanie (zastaviť po aktuálnom programe)"
-
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Všetky satelity"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Potvrdený príkaz DiSEqC"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "Opakovania DiSEqC"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Nebol nájdený satelitný tuner!"
-
-#~ msgid "Remove timer"
-#~ msgstr "Zmazať časovač"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Poslať DiSEqC"
-
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "Nasledujúca stanica"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Nepotvrdený príkaz DiSEqC"
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Prepnúť späť na stanicu spred hľadania satelitu?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuner nie je podporovaný"
+msgid "History"
+msgstr ""

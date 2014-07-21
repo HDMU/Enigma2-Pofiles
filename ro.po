@@ -8189,45 +8189,14 @@ msgstr ""
 msgid "zapped"
 msgstr "zapped"
 
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Activeaza PIP"
+msgid "Remote Control Setup"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "adauga inregistrare (opreste dupa evenimentul curent)"
+msgid "Language/Timezone"
+msgstr ""
 
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Toti Sateliti"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Comanda DiSEqC-ului selectat"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC in cascada"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Nu a fost gasit niciun satelit!"
-
-#~ msgid "Remove timer"
-#~ msgstr "Eliminare timer"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Trimite DiSEqC"
-
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "canalul urmator"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC command"
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Treci inapoi la serviciul inainte de satfinder?"
+msgid "History"
+msgstr ""

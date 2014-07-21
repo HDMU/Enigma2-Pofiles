@@ -9725,69 +9725,14 @@ msgstr ""
 msgid "zapped"
 msgstr "prebačen"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Aktiviraj Sliku u Slici"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "dodaj snimanje (zaustavi posle trenutnog događaja)"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Svi sateliti"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Upravljačka DISEqC komanda"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC ponavljanja"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Nije pronađen čeoni satelit!!"
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Ukloniti tajmer"
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Poslati DISEqC"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "sjedeći kanal"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Nedodeljena DiSEqC komanda"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Prebaciti natrag na kanal pre sat. tražitelja?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tjuner nije podržan"
+msgid "History"
+msgstr ""

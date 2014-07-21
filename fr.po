@@ -7966,77 +7966,14 @@ msgstr "Zapper et enregistrer"
 msgid "zapped"
 msgstr "Zappé"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Activer l'incrustation d'image"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Ajuster les paramètres HDMI CEC"
-
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "Et va éteindre votre récepteur après"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Configure if and how service type icons will be shown."
-#~ msgstr "Configurez si et comment les icônes de type de service seront affichés."
-
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Configure la durée en heures et l'action, qui peut être éteindre ou mettre en veille, lorsque le récepteur n'est pas utilisé."
-
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Configure la durée en minutes et l'action, qui peut être éteindre ou mettre en veille, pour l'arrêt automatique. Sélectionnez cette entrée et cliquez sur OK ou VERT pour démarrer/arrêter l'arrêt automatique."
-
-#~ msgid "Currently the commit log cannot be retreived - please try later again"
-#~ msgstr "Actuellement le log des commits ne peut pas être récupéré - merci de réessayer plus tard "
-
-#~ msgid "DVB_C"
-#~ msgstr "DVB_C"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Aucun tuner satellite trouvé !!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Ouvrir la liste des services et sélectionner la chaine suivante"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Ouvrir la liste des services et sélectionner la chaine précédente"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Appuyez sur '0' pour basculer PiP (interne/externe)."
-
-#~ msgid "Remove timer"
-#~ msgstr "Retirer programmation"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Envoyer DiSEqC"
-
-#~ msgid "Shutdown after current event"
-#~ msgstr "Arrêter après l'évènement actuel"
-
-#~ msgid "Shutdown in "
-#~ msgstr "Éteindre dans "
-
-#~ msgid "Switch next channel"
-#~ msgstr "Basculer vers la chaîne suivante"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Commande DiSEqC non validée"
-
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "Votre récepteur va s'éteindre faute d'activité."
-
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "Votre récepteur va s'éteindre à cause du timer d'inactivité (sleeptimer)."
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Revenir sur le service avant le pointage?"
+msgid "History"
+msgstr ""

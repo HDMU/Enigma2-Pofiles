@@ -9495,75 +9495,14 @@ msgstr ""
 msgid "zapped"
 msgstr "preklopljen"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Aktivacija Slike v Sliki"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Dodaj/Izbriši časovnik za trenutni dogodek"
-
-#
-#~ msgid "All satellites"
-#~ msgstr "Vsi sateliti"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Commited DiSEqC ukaz"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC ponavljanja"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Pojdi na točno določen čas"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Ni satelitske naprave!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Odpri seznam kanalov in izberi naslednji kanal"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Odpri seznam kanalov in izberi prejšnji kanal"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Pritisnite '0' za preklop med notranjim in zunanjim PiP."
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Odstrani časovnik"
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Pošlji DiSEqC signal"
-
-#
-#~ msgid "Switch next channel"
-#~ msgstr "Naslednji kanal"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC command"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Prestavim na kanal, ki ste ga gledali pred tem?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "kanalnik ni podprt"
+msgid "History"
+msgstr ""

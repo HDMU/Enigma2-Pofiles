@@ -9035,101 +9035,14 @@ msgstr " gå til og spill inn"
 msgid "zapped"
 msgstr "gått til"
 
-#~ msgid "A demo plugin for TPM usage."
-#~ msgstr "En test- app til TPM bruk."
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AC3 downmix"
-#~ msgstr "AC3 blanding"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#~ msgid "Activate PiP"
-#~ msgstr "Aktivere PiP (bilde i bilde)"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Legge til/slett tidtaker i nåværende program"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Justere HDMI CEC innstillinger"
-
-#~ msgid "All satellites"
-#~ msgstr "Alle satellitter"
-
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "Og mottakeren vil slåes helt av etter"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Utvidet DiSEqC kommando"
-
-#~ msgid "Configure if and how service type icons will be shown."
-#~ msgstr "Still inn om eller hvordan kanal picons skal vises."
-
-#~ msgid "Configure if service picons will be shown in the servicelist."
-#~ msgstr "Still inn om kanal picons skal vises i kanallisten."
-
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Still inn varigheten i antall timer fra mottakeren er inaktiv til den automatisk skal slåes av/slåes helt av."
-
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Still inn varigheten i antall minutter når tidtakeren skal velge å slå av/slå helt av mottakeren. Velg denne oppføringen og klikk OK eller grønn knapp for start/stopp av tidtakeren"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC gjentakelse"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Gå til en bestemt data/tid"
-
-#
-#~ msgid "Memory positions"
-#~ msgstr "Lagre posisjoner"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Ingen satellitt posisjon ble funnet!!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Åpne kanallisten og velg neste kanal"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Åpne kanallisten og velg forrige kanal"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Trykk '0' for å bytte internt/eksternt PiP (Bilde i bilde)."
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Slette tidtaker"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Send DiSEqC"
-
-#~ msgid "Show picons in servicelist"
-#~ msgstr "Vis picons i kanalliste"
-
-#
-#~ msgid "Shutdown after current event"
-#~ msgstr "Slå av etter nåværende program"
-
-#~ msgid "Shutdown in "
-#~ msgstr "Slå helt av om"
-
-#
-#~ msgid "Switch next channel"
-#~ msgstr "Gå til neste kanal"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Søketrinnstørrelse"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC kommando"
-
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "Mottakeren slåes av på grunn av inaktivitet."
-
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "Mottakeren slåes av etter tidtakerinnstillingen."
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Gå tilbake til kanal og avslutt satellittsøker?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuner er ikke støttet"
+msgid "History"
+msgstr ""

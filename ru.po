@@ -7989,102 +7989,14 @@ msgstr "перейти и записать"
 msgid "zapped"
 msgstr "переключено"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Активировать PIP"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Добавить/удалить таймер для текущего события"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Выставите настройки 3D"
-
-#~ msgid "All satellites"
-#~ msgstr "Все спутники"
-
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "И выключит ваш ресивер через "
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Команда переключения DiSEqC"
-
-#~ msgid "Configure if and how service type icons will be shown."
-#~ msgstr "Настройка для показа иконок типа сервиса в списке сервисов."
-
-#~ msgid "Configure if service picons will be shown in the servicelist."
-#~ msgstr "Настройка для показа пиконов сервисов в списке сервисов."
-
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Настройка продолжительности в часах и действия, выключение или режим ожидания, когда ресивер без управления."
-
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Настройка продолжительности в минутах и действия (выключение или режим ожидания) для таймера сна. Выберите эту строку и нажмите ОК или зеленую кнопку для запуска/остановки таймера сна."
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC повтор"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Перейти на конкретное дата/время"
-
-#~ msgid "Memory positions"
-#~ msgstr "Позиция памяти"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Не найден спутниковый интерфейс!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Открыть список сервисов и выбрать следующий канал"
-
-# -----------------------------------------
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Открыть список сервисов и выбрать предыдущий канал"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Нажмите '0' для смены внутреннего/внешнего PiP."
-
-#~ msgid "Remove timer"
-#~ msgstr "Удалить таймер"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Отправить DiSEqC"
-
-#~ msgid "Show picons in servicelist"
-#~ msgstr "Показать пиконы в списке сервисов"
-
-#~ msgid "Shutdown after current event"
-#~ msgstr "Выключение после текущего события"
-
-#~ msgid "Shutdown in "
-#~ msgstr "Выключение через "
-
-#~ msgid "Switch next channel"
-#~ msgstr "Переключить на следующий канал"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Размер шага поворота"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Команда переключения DiSEqC"
-
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "Ваш ресивер будет выключен из-за бездействия."
-
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "Ваш ресивер будет переведен в режим ожидания по таймеру сна."
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Переключить на предыдущий сервис?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "Неизвестная"
+msgid "History"
+msgstr ""

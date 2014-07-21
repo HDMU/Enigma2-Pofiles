@@ -7969,80 +7969,14 @@ msgstr "zap and record"
 msgid "zapped"
 msgstr "zapped"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr "Remote Control Setup"
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr "Language/Timezone"
 
-#~ msgid "Activate PiP"
-#~ msgstr "Activate PiP"
+msgid "Input device/Keyboard setup"
+msgstr "Input device/Keyboard setup"
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Add/remove timer for current event"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Adjust HDMI CEC settings"
-
-#~ msgid "All satellites"
-#~ msgstr "All satellites"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Committed DiSEqC command"
-
-#~ msgid "Configure if and how service type icons will be shown."
-#~ msgstr "Configure if and how service type icons will be shown."
-
-#~ msgid "Configure if service picons will be shown in the servicelist."
-#~ msgstr "Configure if service picons will be shown in the servicelist."
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC repeats"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Goto specific data/time"
-
-#~ msgid "Memory positions"
-#~ msgstr "Memory positions"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "No satellite frontend found!!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Open service list and select next channel"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Open service list and select previous channel"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Press '0' to toggle internal/external PiP."
-
-#~ msgid "Remove timer"
-#~ msgstr "Remove timer"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Send DiSEqC"
-
-#~ msgid "Show picons in servicelist"
-#~ msgstr "Show picons in servicelist"
-
-#~ msgid "Switch next channel"
-#~ msgstr "Switch next channel"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Tuning step size"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC command"
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Zap back to service before satfinder?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuner is not supported"
+msgid "History"
+msgstr "History"

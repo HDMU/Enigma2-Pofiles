@@ -7968,110 +7968,14 @@ msgstr "ugrás és felvétel"
 msgid "zapped"
 msgstr "ugrott"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Kép-a-Képben bekapcsolása"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Aktuális esemény időzítésének kezelése"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "HDMI CEC távvezérlési beállítások"
-
-#~ msgid "All satellites"
-#~ msgstr "Összes műhold"
-
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "Kikapcsolás:"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Elkötelezett DiSEqC parancs"
-
-#~ msgid "Configure if and how service type icons will be shown."
-#~ msgstr "A csatornák típusának megjelenítésének módja és lehetősége a csatornalistában"
-
-#~ msgid "Configure if service picons will be shown in the servicelist."
-#~ msgstr "A csatornák pikonjainak megjelenítésének módja és lehetősége a csatornalistában."
-
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Ennyi óra tétlenség után mi történjen: kikapcsolás, készenlét."
-
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Ennyi perc után mi történjen: kikapcsolás, készenlét (elalvás időzítés). Válassza ezt a menüpontot, majd az OK vagy a zöld gomb lenyomásával aktiválja a beállítást az elalváshoz."
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC ismétlések"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Ugrás bizonyos dátum/időre"
-
-#~ msgid "Hide numbered markers"
-#~ msgstr "Sorszámozott elválasztók elrejtése"
-
-#~ msgid "Memory positions"
-#~ msgstr "Pozíció memória"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Nem találtam műholdas tunert!!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Csatornalista megnnyítása és a következő csatorna választása"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Csatornalista megnnyítása és az előző csatorna választása"
-
-#~ msgid "PPanels"
-#~ msgstr "PPanel-ek"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "A Kép-a-Képben felcserélése a '0' gombbal történik."
-
-#~ msgid "Remove timer"
-#~ msgstr "Időzítés eltávolítása"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "DiSEqC-küldés"
-
-#~ msgid "Show picons in servicelist"
-#~ msgstr "Pikonok mejelenítése a csatornalistában"
-
-#~ msgid "Shutdown after current event"
-#~ msgstr "Kikapcsolás az aktuális műsor végén"
-
-#~ msgid "Shutdown in "
-#~ msgstr "Kikapcsolás: "
-
-#~ msgid "Switch next channel"
-#~ msgstr "Következő csatorna"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Hangolás léptéke"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Nem elkötelezett DiSEqC parancs"
-
-#~ msgid "When enabled, numbered markers will be hiden."
-#~ msgstr "A csatornalistában esetleg lévő, sorszámozott elválasztó elemek elrejtése."
-
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "A készülék most kikapcsol inaktivitás miatt."
-
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "A készülék most kikapcsol elalvás-időzítés miatt."
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Ugorjunk vissza a műholdkereső elött nézett csatornához?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "nem támogatott tuner"
+msgid "History"
+msgstr ""

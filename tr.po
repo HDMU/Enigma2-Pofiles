@@ -7953,68 +7953,14 @@ msgstr ""
 msgid "zapped"
 msgstr "kanal değiştirildi"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "RiR Etkinleştir"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Geçerli olay için zamanlayıcı Ekle / Kaldır"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "HDMI CEC Ayarlar"
-
-#~ msgid "All satellites"
-#~ msgstr "Tüm uydular"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Bağlı DiSEqC emri"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC tekrarı"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Özel Tarih/Zaman'a git"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Uydu arayüzü bulunamadı!!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Kanal listesinde sonraki kanalı seç"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Kanal listesinde önceki kanalı seç"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Iç/Dış PiP arasında geçiş yapmak için '0' tuşuna basın."
-
-#~ msgid "Remove timer"
-#~ msgstr "Zamanl. kaldır"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "DiSEqC komutu gönder"
-
-#~ msgid "Switch next channel"
-#~ msgstr "Sonraki kanala geç"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Adım boyu ayarlama"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Bağımsız DiSEqC tekrarı"
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Uydu arayıcıdan çıktıktan sonra seyrettiğiniz kanala dönmek istiyor musunuz?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuner desteklenmiyor"
+msgid "History"
+msgstr ""

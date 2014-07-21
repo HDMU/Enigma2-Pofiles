@@ -9356,58 +9356,14 @@ msgstr ""
 msgid "zapped"
 msgstr "zappejat"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Activar PiP"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "afegir gravació (fins que s'acabi el programa)"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Satèl·lits"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Comanda DISEqC enviada"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "Repetir DiSEqC"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "No s'ha trobat cap sintonitzador de satèŀlit!!"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "canal següent"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Comanda DiSEqC no enviada"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Tornar al canal abans d'executar el satfinder?"
+msgid "History"
+msgstr ""

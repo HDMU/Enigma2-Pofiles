@@ -9645,130 +9645,14 @@ msgstr "Przełącz i nagraj"
 msgid "zapped"
 msgstr "Przełączony"
 
-#
-#, fuzzy
-#~ msgid "AA"
-#~ msgstr "A"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "AB"
-#~ msgstr "A"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Włącz PiP"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Dodaj/usuń timer dla bieżącej audycji"
-
-#, fuzzy
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Dostosuj ustawienia 3d"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Wybierz satelity"
-
-#, fuzzy
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "Odbiornik przejdzie w stan czuwania za"
-
-#
-#, fuzzy
-#~ msgid "BA"
-#~ msgstr "A"
-
-#
-#, fuzzy
-#~ msgid "BB"
-#~ msgstr "B"
-
-#
-#, fuzzy
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Komenda DiSEqC 1.0"
-
-#, fuzzy
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Ustaw czas (w godzinach) po jakim odbiornik przełączy się w tryb czuwania, gdy pozostaje nieaktywny."
-
-#, fuzzy
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Ustaw czas (w minutach) dla wyłącznika czasowego. Wybierz opcję i wciśnij OK lub zielony aby uruchomić/zatrzymać sleeptimer. "
-
-#, fuzzy
-#~ msgid "Currently the commit log cannot be retreived - please try later again"
-#~ msgstr "Commit log nie może zostać teraz pobrany - spróbuj ponownie później"
-
-#
-#, fuzzy
-#~ msgid "DiSEqC repeats"
-#~ msgstr "Powtórzenia DiSEqC 1.1"
-
-#, fuzzy
-#~ msgid "Goto specific data/time"
-#~ msgstr "Idź do konkretnej daty/godziny"
-
-#, fuzzy
-#~ msgid "Open service list and select next channel"
-#~ msgstr "i wybierz kolejny kanał"
-
-#, fuzzy
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "i wybierz poprzedni kanał."
-
-#, fuzzy
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Wciśnij '0' aby przełączać tryby PiP"
-
-#
-#, fuzzy
-#~ msgid "Remove timer"
-#~ msgstr "Usuń tytuł"
-
-#
-#, fuzzy
-#~ msgid "Send DiSEqC"
-#~ msgstr "DiSEqC"
-
-#, fuzzy
-#~ msgid "Shutdown after current event"
-#~ msgstr "Przejdź w tryb czuwania po bieżącym wydarzeniu"
-
-#
-#, fuzzy
-#~ msgid "Shutdown in "
-#~ msgstr "Wyłącz"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "Przełącz na następny kanał"
-
-#~ msgid "Toggle InfoBar"
-#~ msgstr "Wyświetl / ukryj pasek info"
-
-#, fuzzy
-#~ msgid "Tuning step size"
-#~ msgstr "Rozmiar kroku obrotu"
-
-#
-#, fuzzy
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Komenda DiSEqC 1.0"
-
-#, fuzzy
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "Odbiornik przejdzie w tryb czuwania z powodu bezczynności"
-
-#, fuzzy
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "Sleeptimer przełączy odbiornik w tryb czuwania"
-
-#, fuzzy
-#~ msgid "tuner is not supported"
-#~ msgstr "Tuner nieobsługiwany"
+msgid "History"
+msgstr ""

@@ -9733,79 +9733,14 @@ msgstr ""
 msgid "zapped"
 msgstr "skiftet"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Aktiver BiB"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Tilføj/Fjern timer for dette program"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Juster HDMI CEC indstillinger"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Alle satellitter"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Kommiteret DiSEqC kommando"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC gentagelser"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Gå til specifik dato/tid"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Ingen satellit frontend fundet!!"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Tryk nul for at skifte mellem BiB"
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Fjern timer"
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Sender DiSEqC"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "næste kanal"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Tuning trin størrelse"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Ukommiteret DiSEqC kommando"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Skift tilbage til kanal før sat søger?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuner ikke supporteret"
+msgid "History"
+msgstr ""

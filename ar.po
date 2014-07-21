@@ -8878,53 +8878,14 @@ msgstr ""
 msgid "zapped"
 msgstr "تم الانتقال"
 
-#
-#~ msgid "AA"
-#~ msgstr "أأ"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "أب"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "صوره داخل صوره نشط"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "                                                                   أضف تسجيل (وإيقاف بعد انتهاء البرنامج الحالى)"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "كل الاقمار"
-
-#
-#~ msgid "BA"
-#~ msgstr "ب أ"
-
-#
-#~ msgid "BB"
-#~ msgstr "ب ب"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "تكرار الدايزك"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "لم يتم العثور على أقمار موجهه !!"
-
-#~ msgid "Remove timer"
-#~ msgstr "حذف المؤقت"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "أرسل دايزك"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "القناه التاليه"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "هل تريد التنقل الى القناه الاخيره قبل باحث الاقمار ؟"
+msgid "History"
+msgstr ""

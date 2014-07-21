@@ -9312,85 +9312,14 @@ msgstr ""
 msgid "zapped"
 msgstr "Zap eseguito"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#~ msgid "Activate PiP"
-#~ msgstr "Attivare PiP"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Aggiungere/Rimuovere timer per evento corrente"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Regolare le impostazioni CEC HDMI"
-
-#
-#~ msgid "All satellites"
-#~ msgstr "Tutti i satelliti"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Comando DiSEqC committed"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "Ripetizioni DiSEqC"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Andare a data/ora specifiche"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Nessun apparato satellitare trovato!!!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Aprire l'elenco canali e selezionare il canale successivo"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Aprire l'elenco canali e selezionare il canale precedente"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "0 >> Commutare PiP interna/esterna"
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Rim. timer"
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Inviare DiSEqC"
-
-#
-#~ msgid "Switch next channel"
-#~ msgstr "Canale successivo"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Ampiezza passo"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Comando DiSEqC uncommitted"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr ""
-#~ "Ritornare al canale attivo\n"
-#~ "prima della ricerca satelliti?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "Tuner non supportato"
+msgid "History"
+msgstr ""

@@ -9962,62 +9962,14 @@ msgstr "zapeado"
 msgid "Committed DiSEqC command"
 msgstr "Comando DISEqC enviado"
 
-#
-#, fuzzy
-#~ msgid "AA"
-#~ msgstr "A"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "AB"
-#~ msgstr "A"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Activar Picture en Picture"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Añadir grabación (sólo evento actual)"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Satélites"
-
-#
-#, fuzzy
-#~ msgid "BA"
-#~ msgstr "A"
-
-#
-#, fuzzy
-#~ msgid "BB"
-#~ msgstr "B"
-
-#
-#, fuzzy
-#~ msgid "DiSEqC repeats"
-#~ msgstr "Modo DiSEqC"
-
-#
-#, fuzzy
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "No he encontrado motor capaz"
-
-#
-#, fuzzy
-#~ msgid "Remove timer"
-#~ msgstr "Borrar el título"
-
-#
-#, fuzzy
-#~ msgid "Send DiSEqC"
-#~ msgstr "DiSEqC"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "canal siguiente en historia"
+msgid "History"
+msgstr ""

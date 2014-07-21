@@ -9597,3 +9597,14 @@ msgstr "přepnout a nahrát"
 msgid "zapped"
 msgstr "přepnutý"
 
+msgid "Remote Control Setup"
+msgstr ""
+
+msgid "Language/Timezone"
+msgstr ""
+
+msgid "Input device/Keyboard setup"
+msgstr ""
+
+msgid "History"
+msgstr ""

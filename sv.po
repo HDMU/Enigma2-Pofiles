@@ -9322,114 +9322,14 @@ msgstr "zappa och spela in"
 msgid "zapped"
 msgstr "zapped"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Aktivera BiB"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Lägg till / Ta bort timer för aktuellt program"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Justera HDMI-CEC inställningar"
-
-#
-#~ msgid "All satellites"
-#~ msgstr "Alla Satelliter"
-
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "Din mottagare kommer att stängas av om"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Committed DiSEqC kommando"
-
-#~ msgid "Configure if and how service type icons will be shown."
-#~ msgstr "Konfigurera om och hur serviceikonerna skall visas."
-
-#~ msgid "Configure if service picons will be shown in the servicelist."
-#~ msgstr "Konfigurera om kanalpicon skall visas i kanallistan."
-
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Konfigurera längden i timmar och händelsen, som kan vara avstängning eller viloläge, när inte mottagaren kontrolleras."
-
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Konfigurera varaktighet i minuter samt åtgärd som kan vara avstängning eller viloläge för insomningstimer. Välj och klicka på OK eller grön knapp för att starta / stoppa insomningstimer"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DISEqC repetitioner"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Gå till specifik data/tid"
-
-#~ msgid "Memory positions"
-#~ msgstr "Minnesplatser"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Ingen satellit frontend funnen!!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Öppna kanallistan och välj nästa kanal"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Öppna kanallistan och välj föregående kanal"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Tryck '0' för att växla mellan intern/extern BiB"
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Ta bort timer"
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Skicka DiSEqC"
-
-#~ msgid "Show picons in servicelist"
-#~ msgstr "Visa picon i kanallistan"
-
-#~ msgid "Shutdown after current event"
-#~ msgstr "Stäng av efter aktuellt program"
-
-#~ msgid "Shutdown in "
-#~ msgstr "Stäng av om"
-
-#
-#~ msgid "Switch next channel"
-#~ msgstr "Nästa kanal"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Inställningens stegstorlek"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC kommando"
-
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "Din mottagare stängs av på grund av inaktivitet"
-
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "Din mottagare stängs av på grund av insomningstimer."
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Gå till föregående kanal före satfinder?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuner stöds inte"
+msgid "History"
+msgstr ""

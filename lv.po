@@ -7986,89 +7986,14 @@ msgstr "pārslēgt un ierakstīt"
 msgid "zapped"
 msgstr "pārslēgts"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Aktivizēt PiP"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Pievienot/noņemt taimeri pašreizējam notikumam"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Pielāgot HDMI CEC iestatījumus"
-
-#~ msgid "All satellites"
-#~ msgstr "Visi pavadoņi"
-
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "Un izslēgt uztvērēju pēc "
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Aktīvā DiSEqC komanda"
-
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Uzstāda laiku stundās un darbību- vai būs izslēgšana vai gaidstāve, ja uztvērēju nekontrolē."
-
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Uzstāda laiku minūtēs un darbību miega taimerim- vai būs izslēgšana vai gaidstāve. Izvēlieties šo ierakstu un nospiediet OK vai zaļo lai palaistu/apstādinātu miega taimeri"
-
-#~ msgid "Currently the commit log cannot be retreived - please try later again"
-#~ msgstr "Pašreiz kommitu logs nav pieejams - lūdzu mēginiet vēlāk"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC atkārtojums"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Iet uz noteiktu datumu/laiku"
-
-#~ msgid "Memory positions"
-#~ msgstr "Atmiņas pozīcijas"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Atvērt kanālu sarakstu un izvēlēties nākamo kanālu"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Atvērt kanālu sarakstu un izvēlēties iepriekšējo kanālu"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Spiediet '0', lai pārslēgtu iekšējo/ārējo PiP."
-
-#~ msgid "Remove timer"
-#~ msgstr "Dzēst taimeri"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Sūtīt DiSEqC"
-
-#~ msgid "Shutdown after current event"
-#~ msgstr "Izslēgt pēc pašreizējā notikuma"
-
-#~ msgid "Shutdown in "
-#~ msgstr "Izslēgt "
-
-#~ msgid "Switch next channel"
-#~ msgstr "Pārslēgt uz nākamo kanālu"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Noskaņošanas soļa izmērs"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Pasīvā DiSEqC komanda"
-
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "Jūsu uztvērējs izslēgsies jo nav aktivitātes."
-
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "Jūsu uztvērējs izslēdzas dēļ miega taimera."
-
-#~ msgid "tuner is not supported"
-#~ msgstr "uztvērējs netiek atbalstīts"
+msgid "History"
+msgstr ""

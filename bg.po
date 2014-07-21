@@ -7868,32 +7868,14 @@ msgstr ""
 msgid "zapped"
 msgstr "превключен"
 
-#~ msgid "AA"
-#~ msgstr "АА"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Добави/Премахнитаймер за текущото предаване"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "HDMI CEC настройки"
-
-#~ msgid "All satellites"
-#~ msgstr "Всички Сателити"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC повторения"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Не са открити сателити!!"
-
-#~ msgid "Remove timer"
-#~ msgstr "Премахни таймер"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Изпращай DiSEqC"
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Назад към канала преди 'търсене на сателити'?"
+msgid "History"
+msgstr ""

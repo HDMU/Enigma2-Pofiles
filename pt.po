@@ -9687,71 +9687,14 @@ msgstr ""
 msgid "zapped"
 msgstr "zapped"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "activar PiP"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Adicionar/Remover gravação do evento actual "
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Ajustar opções HDMI CEC"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Todos os Satélites"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Comando de DiSEqC comprometido"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "Repetições DiSEqC"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Ir para a data/tempo especificado"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Não encontrou o Satelite."
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Prima '0' para trocar entre PiP interno e externo."
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Remover temporizador"
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Enviar DISEqC"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "proximo canal"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Tamanho do passo de viragem"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Instrução de DiSEqC não permitida"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Voltar ao canal  antes da busca de satélites?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuner não é suportado"
+msgid "History"
+msgstr ""

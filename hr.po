@@ -9384,58 +9384,14 @@ msgstr ""
 msgid "zapped"
 msgstr "prebačen"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Aktiviraj Sliku u Slici"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "dodaj snimanje (zaustavi nakon trenutnog događaja)"
-
-#
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Sateliti"
-
-#
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Committed DiSEqC cmd"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC ponavljanja"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Nije pronađen Satelitski tuner!!"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "sljedeći kanal"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC command"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Prebaciti natrag na uslugu prije sat. tražitelja?"
+msgid "History"
+msgstr ""

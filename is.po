@@ -9391,65 +9391,14 @@ msgstr ""
 msgid "zapped"
 msgstr "stokkið"
 
-#
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Activate PiP"
-#~ msgstr "Virkja Mynd í Mynd"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#
-#, fuzzy
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "bæta við upptöku (stoppa eftir núverandi atriði)"
-
-#, fuzzy
-#~ msgid "All satellites"
-#~ msgstr "Allir gervihnettir"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Fyrsta DiSEqC rofa stýring"
-
-#
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC endurtekning"
-
-#
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Það fannst ekki gervihnattamóttakari!!"
-
-#
-#~ msgid "Remove timer"
-#~ msgstr "Eyða tímastillingu"
-
-#
-#~ msgid "Send DiSEqC"
-#~ msgstr "Senda DiSEqC"
-
-#
-#, fuzzy
-#~ msgid "Switch next channel"
-#~ msgstr "næsta rás"
-
-#
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC stýring"
-
-#
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Fara aftur á rás fyrir rásaleitun?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "móttakari er ekki studdur"
+msgid "History"
+msgstr ""

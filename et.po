@@ -7968,68 +7968,14 @@ msgstr ""
 msgid "zapped"
 msgstr "vahetatud"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Ava pilt-pildis"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Lisa/eemalda taimer käesolevale saatele"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Kohanda HDMI CEC seadeid"
-
-#~ msgid "All satellites"
-#~ msgstr "Kõik satelliidid"
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Committed DiSEqC-käsk"
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "DiSEqC-kordused"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Mine kindlale kellaajale/kuupäevale"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Ei leitud satelliidi tuunerit!!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Ava kanalinimekiri ja vali järgmine kanal"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Ava kanalinimekiri ja vali eelmine kanal"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Sisese ja välise PIP vahetamiseks vajuta '0'."
-
-#~ msgid "Remove timer"
-#~ msgstr "Eemalda taimer"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "DiSEqC"
-
-#~ msgid "Switch next channel"
-#~ msgstr "Järgmine kanal"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Häälestamise sammu suurus"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Uncommitted DiSEqC-käsk"
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Tagasi vaadatud kanalile?"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "tuuner pole toetatud"
+msgid "History"
+msgstr ""

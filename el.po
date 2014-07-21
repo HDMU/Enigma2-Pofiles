@@ -7947,107 +7947,14 @@ msgstr "μετάβαση και εγγραφή"
 msgid "zapped"
 msgstr "έγινε μετάβαση"
 
-#~ msgid "AA"
-#~ msgstr "AA"
+msgid "Remote Control Setup"
+msgstr ""
 
-#~ msgid "AB"
-#~ msgstr "AB"
+msgid "Language/Timezone"
+msgstr ""
 
-#~ msgid "Activate PiP"
-#~ msgstr "Ενεργοποίηση PiP"
+msgid "Input device/Keyboard setup"
+msgstr ""
 
-#~ msgid "Add/remove timer for current event"
-#~ msgstr "Προσθήκη/αφαίρεση χρονοδιακόπτη για το τρέχον πρόγραμμα"
-
-#~ msgid "Adjust HDMI CEC settings"
-#~ msgstr "Ρυθμίσεις HDMI CEC"
-
-#~ msgid "All satellites"
-#~ msgstr "Όλοι οι δορυφόροι"
-
-#~ msgid "And will shutdown your receiver over "
-#~ msgstr "Και θα κλείσει το δέκτη σας μετά από "
-
-#~ msgid "BA"
-#~ msgstr "BA"
-
-#~ msgid "BB"
-#~ msgstr "BB"
-
-#~ msgid "Committed DiSEqC command"
-#~ msgstr "Δεσμευμένη εντολή DiSEqC"
-
-#~ msgid "Configure if and how service type icons will be shown."
-#~ msgstr "Ρυθμίστε αν και πώς θα εμφανίζονται τα εικονίδια υπηρεσιών στη λίστα."
-
-#~ msgid "Configure if service picons will be shown in the servicelist."
-#~ msgstr "Ρύθμιση εάν τα εικονίδια των υπηρεσιών θα εμφανίζονται στη λίστα."
-
-#~ msgid "Configure the duration in hours and action, which could be shut down or standby, when the receiver is not controlled."
-#~ msgstr "Ρυθμιση της διάρκειας σε ώρες και ενέργειες, που μπορεί να είναι ο τερματισμός ή η αναμονή, όταν ο δέκτης δεν ελέγχεται."
-
-#~ msgid "Configure the duration in minutes and action, which could be shut down or standby, for the sleeptimer. Select this entry and click OK or green to start/stop the sleeptimer"
-#~ msgstr "Ρυθμιση της διάρκειας σε ώρες και ενέργειες, που μπορεί να είναι ο τερματισμός ή η αναμονή για το χρονοδιακόπτη. Επιλέξτε αυτό το στοιχείο και πιέστε ΟΚ ή το πράσινο για να ξεκινήσει/σταματήσει ο χρονοδιακόπτης ύπνου."
-
-#~ msgid "DiSEqC repeats"
-#~ msgstr "Επαναλήψεις DiSEqC"
-
-#~ msgid "Goto specific data/time"
-#~ msgstr "Μετάβαση σε συγκεκριμένη ημερομηνία/χρόνο"
-
-#~ msgid "Memory positions"
-#~ msgstr "Θέση μνήμης"
-
-#~ msgid "No satellite frontend found!!"
-#~ msgstr "Δεν βρέθηκε tuner για το δορυφόρο!"
-
-#~ msgid "Open service list and select next channel"
-#~ msgstr "Άνοιγμα λίστας υπηρεσιών και επιλογή επόμενου καναλιού"
-
-#~ msgid "Open service list and select previous channel"
-#~ msgstr "Άνοιγμα λίστας υπηρεσιών και επιλογή προηγούμενου καναλιού"
-
-#~ msgid "Press '0' to toggle internal/external PiP."
-#~ msgstr "Πιέστε '0' για εναλλαγή εσωτερικού/εξωτερικού PiP."
-
-#~ msgid "Remove timer"
-#~ msgstr "Διαγραφή χρονοδιακόπτη"
-
-#~ msgid "Send DiSEqC"
-#~ msgstr "Αποστολή DiSEqC"
-
-#~ msgid "Show picons in servicelist"
-#~ msgstr "Εμφάνιση εικονιδίων στη λίστα υπηρεσιών."
-
-#~ msgid "Shutdown after current event"
-#~ msgstr "Τερματισμός μετά το τρέχον πρόγραμμα"
-
-#~ msgid "Shutdown in "
-#~ msgstr "Τερματισμός σε "
-
-#~ msgid "Switch next channel"
-#~ msgstr "Επόμενο κανάλι"
-
-#~ msgid "Tuning step size"
-#~ msgstr "Μέγεθος βήματος συντονισμού"
-
-#~ msgid "Uncommitted DiSEqC command"
-#~ msgstr "Μη δεσμευμένη εντολή DiSEqC"
-
-#~ msgid "Your receiver will shutdown due to inactivity."
-#~ msgstr "Ο δέκτη σας θα κλείσει εξαιτίας της αδράνειας."
-
-#~ msgid "Your receiver will shutdown due to the sleeptimer."
-#~ msgstr "Ο δέκτη σας θα κλείσει εξαιτίας του χρονοδιακόπτη ύπνου."
-
-#~ msgid "Zap back to service before satfinder?"
-#~ msgstr "Επιστροφή στην υπηρεσία πριν το satfinder;"
-
-#~ msgid "tuner is not supported"
-#~ msgstr "το tuner δεν υποστηρίζεται"
-
-#~ msgid "Currently the commit log cannot be retreived - please try later again"
-#~ msgstr "Αυτή τη στιγμή είναι αδύνατη η λήψη του καταγραφολογίου αλλαγών - παρακαλώ δοκιμάστε αργότερα"
-
-#~ msgid "DVB_C"
-#~ msgstr "DVB_C"
+msgid "History"
+msgstr ""
