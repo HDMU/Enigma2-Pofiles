@@ -8481,3 +8481,6 @@ msgstr "Sprache/Zeitzone"
 
 msgid "Input device/Keyboard setup"
 msgstr "Eingabegeräte/Tastatureinstellung"
+
+msgid "History"
+msgstr "Verlauf"
