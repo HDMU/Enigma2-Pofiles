@@ -9963,13 +9963,14 @@ msgid "Committed DiSEqC command"
 msgstr "Comando DISEqC enviado"
 
 msgid "Remote Control Setup"
-msgstr ""
+msgstr "Ajustar mando a distancia"
 
 msgid "Language/Timezone"
-msgstr ""
+msgstr "Idioma/Zona horaria"
 
 msgid "Input device/Keyboard setup"
-msgstr ""
+msgstr "Periferico de entrada/Configurar Teclado"
 
 msgid "History"
-msgstr ""
+msgstr "Historial"
+D
