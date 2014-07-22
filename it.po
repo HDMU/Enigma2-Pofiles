@@ -1510,7 +1510,7 @@ msgid "Configure nameservers"
 msgstr "Opzione per impostare i nameserver"
 
 msgid ""
-"Configure of and how long the latest service in the PiP will be remembered."
+"Configure if and how long the latest service in the PiP will be remembered."
 msgstr ""
 "Configurare quanto tempo l'ultimo canale deve essere memorizzato nel PiP."
 
@@ -6781,10 +6781,8 @@ msgid "TRANSLATOR_INFO"
 msgstr ""
 "Traduzione italiana\n"
 "OpenPLi enigma2\n"
-"a cura di Dario Croci\n"
-"www.linsat.net\n"
-"Supporto: spaeleus@croci.org\n"
-"aggiornamento: 18 dicembre 2012"
+"a cura di miciomax\n"
+"www.dvbmedia.it"
 
 #
 msgid "TS file is too large for ISO9660 level 1!"
