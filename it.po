@@ -1,5 +1,5 @@
 # Italian translations for OpenPLiEnigma2.
-# Signed-off-by: Dario Croci <spaeleus@croci.org>
+# Signed-off-by: miciomax
 #
 msgid ""
 msgstr ""
@@ -7,8 +7,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-21 19:08+0200\n"
 "PO-Revision-Date: 2012-12-18 21:51+0100\n"
-"Last-Translator: Spaeleus <spaeleus@croci.org>\n"
-"Language-Team: www.linsat.net <spaeleus@croci.org>\n"
+"Last-Translator: miciomax <miciomaxx@libero.it>\n"
+"Language-Team: www.dvbmedia.it\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -132,13 +132,13 @@ msgid " (disabled)"
 msgstr " (disabilitato)"
 
 msgid " (higher than any auto)"
-msgstr ""
+msgstr " (più alto di qualsiasi auto)"
 
 msgid " (higher than rotor any auto)"
 msgstr ""
 
 msgid " (lower than any auto)"
-msgstr ""
+msgstr " (più basso di qualsiasi auto)"
 
 msgid " extensions."
 msgstr " estensioni."
@@ -232,8 +232,8 @@ msgstr "%d minuti"
 #, python-format
 msgid "%d pixel wide"
 msgid_plural "%d pixels wide"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d ampiezza pixel"
+msgstr[1] "%d ampiezza pixels"
 
 #, python-format
 msgid "%d second"
@@ -315,7 +315,7 @@ msgid "* Only available if more than one interface is active."
 msgstr "* Disponibile solo se più di un'interfaccia è attiva."
 
 msgid "/s"
-msgstr ""
+msgstr "/s"
 
 #
 msgid "0"
@@ -378,23 +378,23 @@ msgid "2"
 msgstr "2"
 
 msgid "23.976"
-msgstr ""
+msgstr "23.976"
 
 msgid "24"
-msgstr ""
+msgstr "24"
 
 msgid "25"
-msgstr ""
+msgstr "25"
 
 msgid "29.97"
-msgstr ""
+msgstr "29.97"
 
 #
 msgid "3"
 msgstr "3"
 
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgid "3d mode"
 msgstr "Modalità 3d"
@@ -624,7 +624,7 @@ msgid "Add"
 msgstr "Aggiungere"
 
 msgid "Add Bookmark"
-msgstr ""
+msgstr "Aggiungere contrass."
 
 #
 msgid "Add a mark"
@@ -698,7 +698,7 @@ msgid "Add to favourites"
 msgstr "Aggiungere a preferiti"
 
 msgid "Add/remove change timer for current event"
-msgstr ""
+msgstr "Agg./Canc. cambio orario per l'evento corrente"
 
 msgid "Adjust 3D settings"
 msgstr "Configurare opzioni 3D"
@@ -708,7 +708,7 @@ msgid "Adjust the color settings so that all the color shades are distinguishabl
 msgstr "Regolare il colore in modo che tutte le sfumature risultino visibili, ma appaiano le più sature possibile. Se il risultato appare soddisfacente, premere Ok per uscire dalla impostazione avanzata video, o utilizzare i tasti numerici per accedere alle altre schermate."
 
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzato"
 
 #
 msgid "Advanced options"
@@ -743,10 +743,10 @@ msgid "Album"
 msgstr "Album"
 
 msgid "Alignment of events"
-msgstr ""
+msgstr "Allineamento degli eventi"
 
 msgid "Alignment of service names"
-msgstr ""
+msgstr "Allinemaneto dei nomi servizi"
 
 #
 msgid "All"
@@ -756,16 +756,16 @@ msgid "All ages"
 msgstr "Tutte le età"
 
 msgid "All satellites 1 (USALS)"
-msgstr ""
+msgstr "Tutti i satelliti 1 (USALS)"
 
 msgid "All satellites 2 (USALS)"
-msgstr ""
+msgstr "Tutti i satelliti 2 (USALS)"
 
 msgid "All satellites 3 (USALS)"
-msgstr ""
+msgstr "Tutti i satelliti 3 (USALS)"
 
 msgid "All satellites 4 (USALS)"
-msgstr ""
+msgstr "Tutti i satelliti 4 (USALS)"
 
 msgid "Allocate"
 msgstr "Allocare"
@@ -774,7 +774,7 @@ msgid "Allocate unused memory index"
 msgstr "Allocare l'ndice della memoria inutilizzata"
 
 msgid "Allow quit movieplayer with exit"
-msgstr ""
+msgstr "In uscita permettere chiusura movieplayer"
 
 msgid "Allow subtitle language to equal audio language"
 msgstr "Associare la lingua sottotitoli alla lingua audio"
@@ -802,7 +802,7 @@ msgid "Always ask"
 msgstr "Chiedere sempre"
 
 msgid "Always hide infobar"
-msgstr ""
+msgstr "Nascondi sempre infobar"
 
 #
 msgid "An empty filename is illegal."
@@ -817,7 +817,7 @@ msgid "An unknown error occurred!"
 msgstr "Si è verificato un errore sconosciuto!"
 
 msgid "And will put your receiver in standby over "
-msgstr ""
+msgstr "E mettera il box in standby "
 
 msgid "Any activity"
 msgstr "Tutte le attività"
@@ -827,7 +827,7 @@ msgid "Arabic"
 msgstr "Arabo"
 
 msgid "Are you sure to remove this entry?"
-msgstr ""
+msgstr "Sei sicuro di rimuovere il dato?"
 
 #
 msgid ""
@@ -979,10 +979,10 @@ msgid "Automatic scan"
 msgstr "Ricerca automatica"
 
 msgid "Automatically start timeshift after"
-msgstr ""
+msgstr "Avvia il timeshift automaticamente dopo"
 
 msgid "Automatically turn on external subtitles"
-msgstr ""
+msgstr "Avvia automaticamente i sottotitoli esterni"
 
 #
 msgid "Available format variables"
