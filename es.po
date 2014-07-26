@@ -3798,7 +3798,7 @@ msgid "Main menu"
 msgstr "Menú principal"
 
 msgid "Maintain old EPG data for"
-msgstr "Mantener datos antiguos de EPG para"
+msgstr "Minutos a mantener datos antiguos de EPG"
 
 #
 msgid "Make this mark an 'in' point"
