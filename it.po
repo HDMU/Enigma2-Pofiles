@@ -1,13 +1,13 @@
 # Italian translations for OpenPLiEnigma2.
-# Signed-off-by: miciomax 
+# Signed-off-by: miciomax
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-28 00:26+0200\n"
-"PO-Revision-Date: 2014-07-22 17:15+0100\n"
-"Last-Translator: miciomax\n"
+"PO-Revision-Date: 2014-09-24 13:11+0100\n"
+"Last-Translator: miciomax <miciomaxx@libero.it>\n"
 "Language-Team: www.dvbmedia.it\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -9861,8 +9861,8 @@ msgstr "Interfaccia di rete wireless"
 #, python-format
 msgid "with %d error"
 msgid_plural "with %d errors"
-msgstr[0] "mit %d Fehler"
-msgstr[1] "mit %d Fehlern"
+msgstr[0] "con %d errore"
+msgstr[1] "con %d errori"
 
 #
 msgid "working"
