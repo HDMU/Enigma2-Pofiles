@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-05 00:20+0300\n"
+"POT-Creation-Date: 2015-08-21 18:42+0300\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Tapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -107,6 +107,14 @@ msgstr ""
 "\n"
 "Izvēlieties dublējumkopijas ierīci.\n"
 "Pašreizējā ierīce: "
+
+#, python-format
+msgid ""
+"\n"
+"Timer '%s' disabled!"
+msgstr ""
+"\n"
+"Timeris '%s' izslēgts!"
 
 msgid ""
 "\n"
@@ -707,6 +715,9 @@ msgstr "Visi"
 msgid "All ages"
 msgstr "Visi vecumi"
 
+msgid "All frequency"
+msgstr "Visas frekvences"
+
 msgid "All satellites 1 (USALS)"
 msgstr "Visi pavadoņi 1 (USALS)"
 
@@ -1303,6 +1314,9 @@ msgstr "Komunikācija"
 msgid "Compact flash"
 msgstr "Zibatmiņa"
 
+msgid "Compensate for overscan"
+msgstr "Iestata OSD izmērus"
+
 msgid "Complete"
 msgstr "Gatavs"
 
@@ -1625,6 +1639,9 @@ msgstr "Uzstāda kura video izeja tiks lietota."
 msgid "Configuring"
 msgstr "Konfigurē"
 
+msgid "Conflict not resolved!"
+msgstr "Konflikts nav novērsts!"
+
 msgid "Conflicting timer"
 msgstr "Konfliktējošs taimeris"
 
@@ -1698,6 +1715,9 @@ msgstr "Nevar ierakstīt dēļ kļūdaina kanāla %s"
 
 msgid "Create DVD-ISO"
 msgstr "Izveidot DVD-ISO"
+
+msgid "Create new folder and exit"
+msgstr "Izveidot jaunu mapi un iziet"
 
 #, python-format
 msgid "Creating directory %s failed."
@@ -2413,6 +2433,9 @@ msgstr ""
 msgid "Estonian"
 msgstr "Igauņu"
 
+msgid "EtPortal"
+msgstr "Et portāls"
+
 msgid "Ethernet network interface"
 msgstr "Ethernet tīkla interfeiss"
 
@@ -2481,6 +2504,9 @@ msgstr "Lietpratēja"
 
 msgid "Extend sleeptimer 15 minutes"
 msgstr "Paildzināt miega taimeri par 15 minūtēm"
+
+msgid "Extended"
+msgstr "Papildus"
 
 msgid "Extended Software"
 msgstr "Papildus programmatūra"
@@ -2803,8 +2829,8 @@ msgstr "Guard intervāls"
 msgid "HD list"
 msgstr "HD saraksts"
 
-msgid "HD1100/et7x00"
-msgstr "HD1100/et7x00"
+msgid "HD1100/et7x00/et8500"
+msgstr "HD1100/et7x00/et8500"
 
 msgid "HD2400"
 msgstr "HD2400"
@@ -3882,6 +3908,9 @@ msgstr "3D iestatījumi"
 msgid "OSD name request"
 msgstr "OSD nosaukuma pieprasījums"
 
+msgid "OSD position setup"
+msgstr "OSD pozīcijas iestatījumi"
+
 msgid "OSD settings"
 msgstr "OSD iestatījumi"
 
@@ -3917,6 +3946,12 @@ msgstr "Tikai nekodētos"
 
 msgid "Only on startup"
 msgstr "Tikai startējot"
+
+msgid "Open select location"
+msgstr "Atvērt izvēlēto mapi"
+
+msgid "Open select location as timer name"
+msgstr "Atvērt izvēlēto mapi ar taimera nosaukumu"
 
 msgid "Open service list"
 msgstr "Atvērt kanālu sarakstu"
@@ -4920,6 +4955,9 @@ msgstr "Sestdiena"
 msgid "Save"
 msgstr "Saglabāt"
 
+msgid "Save and exit"
+msgstr "Saglabāt un iziet"
+
 msgid "Save and restart timeshift"
 msgstr "Saglabāt un restartēt laika aizturi"
 
@@ -4971,6 +5009,9 @@ msgstr "Meklēt papildu SR"
 
 msgid "Scan files..."
 msgstr "Meklē failus..."
+
+msgid "Scan options"
+msgstr "Meklēšanas veids"
 
 msgid "Scan wireless networks"
 msgstr "Meklēt bezvadu tīklus"
@@ -5437,7 +5478,7 @@ msgstr "Rādīt infojoslu mainoties pārraidei"
 msgid "Show infobar on skip forward/backward"
 msgstr "Rādīt infojoslu pārlēciena turp/atpakaļ laikā"
 
-msgid "Show latest commits on sourceforge"
+msgid "Show latest commits"
 msgstr "Parādīt jaunākās izmaiņas"
 
 msgid "Show latest upgrade log"
@@ -6569,7 +6610,10 @@ msgid "Tries left:"
 msgstr "Atlikuši mēģinājumi:"
 
 msgid "Try to find used transponders in cable network.. please wait..."
-msgstr "Mēģina atrast izmantojamus transponderus kabeļu tīklā.. lūdzu gaidiet..."
+msgstr "Mēģina atrast izmantojamus transponderus kabeļu tīklā... lūdzu gaidiet..."
+
+msgid "Try to find used transponders in terrestrial network... please wait..."
+msgstr "Mēģina atrast izmantojamus transponderus... lūdzu gaidiet..."
 
 msgid "Trying to download a new packetlist. Please wait..."
 msgstr "Mēģina lejuplādēt jaunu pakotņu sarakstu. Lūdzu gaidiet..."
@@ -8072,6 +8116,9 @@ msgstr "pārlēkt uz iepriekšējo nosaukumu"
 msgid "jump forward to the next title"
 msgstr "pārlēkt uz nākamo nosaukumu"
 
+msgid "jump to chapter by number"
+msgstr "pārlekt uz nodaļu izmantojot ciparus"
+
 msgid "languages"
 msgstr "valodas"
 
@@ -8671,4 +8718,7 @@ msgid "Input device/Keyboard setup"
 msgstr ""
 
 msgid "History"
+msgstr ""
+
+msgid "®"
 msgstr ""
