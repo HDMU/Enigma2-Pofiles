@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 09:29+0200\n"
-"PO-Revision-Date: 2015-08-27 13:14+0100\n"
+"PO-Revision-Date: 2015-08-27 19:01+0100\n"
 "Last-Translator: miciomax <miciomaxx@libero.it>\n"
 "Language-Team: www.dvbmedia.it\n"
 "Language: it\n"
@@ -5489,24 +5489,20 @@ msgstr "Proteggere configurazione"
 msgid "Protect context menus"
 msgstr "Proteggere canali"
 
-#, fuzzy
 msgid "Protect main menu"
-msgstr "Menu principale"
+msgstr "Proteggi menu principale"
 
 msgid "Protect manufacturer reset screen"
 msgstr "Proteggi reset schermo produttore"
 
-#, fuzzy
 msgid "Protect movie list"
-msgstr "Configurazione lista video"
+msgstr "Proteggi lista video"
 
-#, fuzzy
 msgid "Protect on epg age"
-msgstr "Proteggere canali"
+msgstr "Proteggi in base all'età in epg"
 
-#, fuzzy
 msgid "Protect plugin browser"
-msgstr "Browser plugin"
+msgstr "Proteggi browser plugin"
 
 #
 msgid "Protect services"
