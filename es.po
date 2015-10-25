@@ -10862,3 +10862,6 @@ msgstr "Periferico de entrada/Configurar Teclado"
 
 msgid "History"
 msgstr "Historial"
+
+msgid "®"
+msgstr ""
