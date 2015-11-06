@@ -1,3 +1,4 @@
+
 # Spanish translations for Enigma2.
 #
 msgid ""
