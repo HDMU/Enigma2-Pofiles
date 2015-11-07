@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-23 19:59+0200\n"
-"PO-Revision-Date: 2015-08-23 20:02+0200\n"
+"POT-Creation-Date: 2015-10-31 13:05+0100\n"
+"PO-Revision-Date: 2015-10-31 13:38+0100\n"
 "Last-Translator: Pr2 <dummy@dummy.com>\n"
 "Language-Team: french\n"
 "Language: fr\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.6\n"
 
 msgid ""
 "\n"
@@ -503,9 +503,6 @@ msgstr ""
 "Un enregistrement est en cours.\n"
 "Que voulez-vous faire?"
 
-msgid "A recording is currently running. Please stop the recording before trying to configure the positioner."
-msgstr "Un enregistrement est en cours. Veuillez arrêter l'enregistrement avant d'essayer de configurer le positionneur."
-
 msgid "A recording is currently running. Please stop the recording before trying to scan."
 msgstr "Un enregistrement est en cours. Veuillez arrêter l'enregistrement avant d'essayer de scanner."
 
@@ -557,6 +554,9 @@ msgstr "Downmix AAC"
 
 msgid "AC3 downmix"
 msgstr "Downmix AC3"
+
+msgid "AGC:"
+msgstr "AGC:"
 
 msgid "Abort"
 msgstr "Abandon"
@@ -753,6 +753,12 @@ msgstr "Toujours demander"
 msgid "Always hide infobar"
 msgstr "Toujours cacher la barre d'infos"
 
+msgid "Always include ECM in recordings"
+msgstr "Toujours inclure ECM dans les enregistrements"
+
+msgid "Always include ECM messages in recordings. This overrides the individual timer settings globally. It allows recordings to be always decrypted afterwards (sometimes called offline decoding), if supported by your receiver. Default: off."
+msgstr "Toujours inclure des messages ECM dans des enregistrements. Cela remplace les paramètres de temporisation globaux. Il permet aux enregistrements d’être toujours décryptés après (parfois appelé décodage hors ligne), si supporté par votre récepteur. Par défaut: désactivé."
+
 msgid "An empty filename is illegal."
 msgstr "Un nom de fichier vide est illégal."
 
@@ -902,6 +908,9 @@ msgstr "Mode création"
 #. TRANSLATORS: (aspect ratio policy: always try to display as fullscreen, when there is no content (black bars) on left/right, even if this breaks the aspect.
 msgid "Auto"
 msgstr "Auto"
+
+msgid "Auto EXIF Orientation rotation/flipping"
+msgstr "Orientation EXIF automatique rotation/retournement (seulement jpg)"
 
 msgid "Auto chapter split every ? minutes (0=never)"
 msgstr "Auto diviser chaque chapitre? minutes (0 = jamais)"
@@ -1359,6 +1368,9 @@ msgstr "Configure si et où l'indicateur d'enregistrement sera affiché dans la 
 msgid "Configure if and how wide columns will be shown in the channel selection list."
 msgstr "Configure si et avec quelle largeur les colonnes seront affichées dans la liste de sélection des chaînes."
 
+msgid "Configure if behind the subtitles a background is shown."
+msgstr "Configure si derrière les sous-titres un arrière plan est affiché."
+
 msgid "Configure if service picons will be shown in the channel selection list."
 msgstr "Configure si les picons des services seront affichés dans la liste des chaînes."
 
@@ -1644,6 +1656,9 @@ msgstr "Satellites connectés"
 msgid "Connected to"
 msgstr "Connecté à"
 
+msgid "Console"
+msgstr "Console"
+
 msgid "Constellation"
 msgstr "Constellation"
 
@@ -1738,6 +1753,9 @@ msgstr ""
 #, python-format
 msgid "Current mode: %s \n"
 msgstr "Mode courant: %s \n"
+
+msgid "Current rotor position: "
+msgstr "Position actuelle du rotor :"
 
 msgid "Current settings:"
 msgstr "Paramètres actuels:"
@@ -1952,8 +1970,11 @@ msgstr "Eléments supprimés"
 msgid "Depth"
 msgstr "Profondeur"
 
-msgid "Descramble http streams"
-msgstr "Décrypter les flux HTTP"
+msgid "Descramble receiving http streams"
+msgstr "Décrypter les flux HTTP reçus"
+
+msgid "Descramble sending http streams"
+msgstr "Décrypter les flux HTTP envoyés"
 
 msgid "Description"
 msgstr "Description"
@@ -2344,8 +2365,14 @@ msgstr "Activer un récepteur enigma2 distant pour essayer de syntoniser les ser
 msgid "Enable teletext caching"
 msgstr "Activer la mise en cache du télétexte"
 
+msgid "Enable timer conflict detection"
+msgstr "Activer la détection des conflits de la minuterie"
+
 msgid "Enable volume control with arrow buttons"
 msgstr "Activer le contrôle du volume avec les flèches"
+
+msgid "Enable wakeup timer"
+msgstr "Activer la minuterie de réveil"
 
 msgid "Enable zapping with CH+/-, B+/-, P+/-"
 msgstr "Activer le zap avec CH+/-, B+/-, P+/-"
@@ -2485,6 +2512,9 @@ msgstr "Quitter assistant réseau"
 msgid "Exit the wizard"
 msgstr "Quitter l'assistant"
 
+msgid "Exit/OK"
+msgstr "Exit/OK"
+
 msgid "Expert"
 msgstr "Expert"
 
@@ -2546,6 +2576,9 @@ msgstr "F1/F3"
 msgid "FEC"
 msgstr "FEC"
 
+msgid "FEC:"
+msgstr "FEC:"
+
 msgid "FTA"
 msgstr "En Clair"
 
@@ -2556,7 +2589,7 @@ msgid "Failed"
 msgstr "Échoué"
 
 msgid "Failed to write /tmp/positionersetup.log: "
-msgstr "Échec de l'écriture/tmp/positionersetup.log:"
+msgstr "Échec de l'écriture /tmp/positionersetup.log: "
 
 msgid "Fallback remote receiver URL"
 msgstr "URL du récepteur distant de repli"
@@ -3409,6 +3442,9 @@ msgstr "Positions mémoires max"
 msgid "Max. bitrate: "
 msgstr "Bitrate Max: "
 
+msgid "Maybe the reason that recording is currently running. Please stop the recording before trying to configure the positioner."
+msgstr "Peut-être parce qu’un enregistrement est en cours. Veuillez arrêter l'enregistrement avant d'essayer de configurer le positionneur."
+
 msgid "Media player"
 msgstr "Lecteur de médias"
 
@@ -3584,7 +3620,7 @@ msgid "NFI image flashing"
 msgstr "Flash de l'image NFI"
 
 msgid "NFI image flashing completed. Press Yellow to Reboot!"
-msgstr "Flash de l'image NFI terminé. Presser le bouton Jaune pour Redémarrer!"
+msgstr "Flash de l'image NFI terminé. Presser le bouton jaune pour redémarrer!"
 
 msgid "NIM"
 msgstr "Tuner"
@@ -3656,6 +3692,12 @@ msgstr "Assistant Réseau"
 
 msgid "Network:"
 msgstr "Réseau: "
+
+msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
+msgstr "Ne jamais déchiffrer le contenu lors de l’enregistrement. Cela remplace les paramètres de temporisation globaux. Si elle est activée, les enregistrements sont stockés encryptés et doivent donc être décryptés après (parfois appelé décodage hors-ligne). Par défaut: désactivé."
+
+msgid "Never decrypt while recording"
+msgstr "Ne jamais décrypter pendant l’enregistrement"
 
 msgid "New"
 msgstr "Nouvelle"
@@ -3812,6 +3854,9 @@ msgstr "Non, mais relancer depuis le début"
 msgid "No, do nothing."
 msgstr "Non, ne rien faire."
 
+msgid "No, except Wakeup timer"
+msgstr "Non, excepté la minuterie de réveil"
+
 msgid "No, just start my receiver"
 msgstr "Non, il suffit de démarrer mon récepteur"
 
@@ -3846,6 +3891,9 @@ msgstr "Pas configuré"
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)"
 msgstr "Espace disque insufisant. Veuillez libérer de l'espace disque et réessayer. (%d MB requis, %d MB disponible)"
+
+msgid "Note: when enabled, and you do want standby mode after wake up, set option 'Startup to Standby' as 'No, except Wakeup timer'."
+msgstr "Note: lorsqu’activé, et que vous voulez mettre votre récepteur en veille après un réveil, mettre l’option ‘Démarrer en mode veille ‘ comme ‘Non, excepté la minuterie de réveil’."
 
 msgid "Nothing connected"
 msgstr "Rien n'est connecté"
@@ -3935,6 +3983,9 @@ msgstr "Ouvrir la localisation sélectionnée comme nom de programmation (timer)
 
 msgid "Open service list"
 msgstr "Ouvrir liste service"
+
+msgid "Open setup tuner "
+msgstr "Ouvrir la configuration du tuner "
 
 msgid "Open the movie list"
 msgstr "Ouvrir la liste des films"
@@ -4303,9 +4354,6 @@ msgstr "Plugins"
 msgid "Polarisation"
 msgstr "Polarisation"
 
-msgid "Polarisation:"
-msgstr "Polarisation:"
-
 msgid "Polarization"
 msgstr "Polarisation"
 
@@ -4339,11 +4387,11 @@ msgstr "Positionneur"
 msgid "Positioner (selecting satellites)"
 msgstr "Positionneur (sélection satellites)"
 
-msgid "Positioner Setup"
-msgstr "Paramètres du positionneur"
-
 msgid "Positioner setup"
 msgstr "Paramètres positionneur"
+
+msgid "Positioner setup log"
+msgstr "Configuration du positionneur log"
 
 msgid "Power threshold in mA"
 msgstr "Seuil de puissance en mA"
@@ -4372,6 +4420,24 @@ msgstr "Préférer les sous-titres stockés pour le service"
 msgid "Preferred tuner"
 msgstr "Tuner préféré"
 
+msgid "Preferred tuner DVB-C"
+msgstr "Tuner DVB-C préféré "
+
+msgid "Preferred tuner DVB-C for recordings"
+msgstr "Tuner DVB-C préféré pour enregistrer"
+
+msgid "Preferred tuner DVB-S"
+msgstr "Tuner DVB-S préféré"
+
+msgid "Preferred tuner DVB-S for recordings"
+msgstr "Tuner DVB-S préféré pour enregistrer"
+
+msgid "Preferred tuner DVB-T"
+msgstr "Tuner DVB-T préféré"
+
+msgid "Preferred tuner DVB-T for recordings"
+msgstr "Tuner DVB-T préféré pour enregistrer"
+
 msgid "Preferred tuner for recordings"
 msgstr "Tuner préféré pour enregistrer"
 
@@ -4389,6 +4455,9 @@ msgstr "Pressez sur INFO de votre télécommande pour plus d'informations."
 
 msgid "Press MENU on your remote control for additional options."
 msgstr "Pressez MENU sur la télécommande pour d'autres options."
+
+msgid "Press OK and configure the days and times wakeup receiver from deep standby mode."
+msgstr "Appuyer sur OK et configurer les jours et les heures de réveil du récepteur depuis la veille profonde."
 
 msgid "Press OK on your remote control to continue."
 msgstr "Pressez OK sur la télécommande pour continuer."
@@ -4426,6 +4495,9 @@ msgstr "Pressez OK pour basculer la sélection"
 
 msgid "Press OK to toggle the selection."
 msgstr "Pressez OK pour basculer le choix"
+
+msgid "Press OK, save and exit..."
+msgstr "Appuyer sur OK, sauvegarder et quitter…"
 
 msgid "Press yellow to set this interface as default interface."
 msgstr "Pressez le bouton jaune pour choisir cette interface comme interface par défaut."
@@ -4575,6 +4647,10 @@ msgstr "Voulez-vous vraiment redémarrer maintenant?"
 
 msgid "Really shutdown now?"
 msgstr "Voulez-vous vraiment éteindre maintenant?"
+
+#, python-format
+msgid "Really store at index %2d for current position?"
+msgstr "Vraiment sauvegarder à l’index %2d pour la position actuelle?"
 
 msgid "Really upgrade the frontprocessor and reboot now?"
 msgstr "Voulez-vous vraiment mettre à jour le frontprocessor et redémarrer maintenant?"
@@ -5155,6 +5231,9 @@ msgstr "Choisir le périphérique entrée."
 msgid "Select interface"
 msgstr "Sélectionner l'interface"
 
+msgid "Select location"
+msgstr "Choisir la localisation"
+
 msgid "Select movie"
 msgstr "Choisir un film"
 
@@ -5169,6 +5248,9 @@ msgstr "Sélection satellites"
 
 msgid "Select service to add..."
 msgstr "Choisir service à ajouter..."
+
+msgid "Select slot"
+msgstr "Choisir un slot"
 
 msgid "Select sort method:"
 msgstr "Choisir la méthode de tri:"
@@ -5380,6 +5462,9 @@ msgstr "Afficher le status WLAN"
 
 msgid "Show animation while busy"
 msgstr "Afficher l'animation si occupé"
+
+msgid "Show background behind subtitles"
+msgstr "Afficher l'arrière-plan derrière les sous-titres"
 
 msgid "Show background in radio mode"
 msgstr "Afficher l'arrière-plan en mode radio"
@@ -5691,6 +5776,9 @@ msgstr "Désolé pas de sauvegardes trouvées!"
 
 msgid "Sorry, no details available!"
 msgstr "Désolé, aucuns détails disponibles!"
+
+msgid "Sorry, this tuner is in use."
+msgstr "Désolé, ce tuner est utilisé."
 
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
@@ -6087,7 +6175,7 @@ msgstr ""
 "Traduction Française\n"
 "Enigma2 - OpenPLi\n"
 "Support: www.openpli.org\n"
-"Dernière MAJ: 18 août 2015"
+"Dernière MAJ: 07 octobre 2015"
 
 msgid "TS file is too large for ISO9660 level 1!"
 msgstr "Fichier TS trop grand pour le niveau 1 ISO9660!"
@@ -7071,8 +7159,17 @@ msgstr "Réveil du récepteur depuis le mode veille"
 msgid "Wakeup signal from TV"
 msgstr "Signal du réveil de la TV"
 
+msgid "Wakeup time"
+msgstr "Heure de réveil"
+
+msgid "Wakeup timer"
+msgstr "Minuterie de réveil"
+
 msgid "Wakeup type"
 msgstr "Type de réveil"
+
+msgid "WakeupTimer Configuration"
+msgstr "Configuration de la minuterie de réveil"
 
 msgid "Warning"
 msgstr "Avertissement"
@@ -7210,6 +7307,9 @@ msgstr "Lorsqu'elle est activée, un enregistrement est autorisé à interrompre
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
 msgstr "Lorsqu'elle est activée, un avertissement sera affiché et l'utilisateur aura l'option d'arrêter ou de continuer la PauseDirect."
 
+msgid "When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of this setting. Default off."
+msgstr "Lorsqu’il est activé, toujours décrypter la réception de flux http. Cela prend plus de ressources (de demuxers de décodages), n’activer que si c’est nécessaire. Les flux individuels sont toujours décryptés si 0x100 est ajouté au type de service, indépendamment de ce paramètre. Désactivé par défaut."
+
 msgid "When enabled, authentication is required to watch http streams."
 msgstr "Lorsqu'elle est activée, une authentification est nécessaire pour regarder les flux (streams) http"
 
@@ -7252,8 +7352,8 @@ msgstr "Lorsqu'elle est activée, les sous-titres graphiques DVB seront affiché
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
 msgstr "Lorsqu'elle est activée, les sous-titres graphiques DVB seront affichés en jaune, au lieu de la couleur d'origine."
 
-msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling."
-msgstr "Lorsqu'elle est activée, les flux http sont décryptés du côté serveur. Le récepteur client (distant) n'aura pas a décrypter."
+msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on."
+msgstr "Lorsqu'elle est activée, les flux http sont décryptés du côté serveur. Le récepteur client (distant) n'aura pas a décrypter. Par défaut: actif."
 
 msgid "When enabled, it is possible to leave the movieplayer with exit."
 msgstr "Lorsqu'elle est activée, il est possible de quitter le lecteur de film avec exit."
@@ -7318,6 +7418,12 @@ msgstr "Lorsqu'elle est activée, le récepteur sélectionne une piste AC3 (si d
 msgid "When enabled, the receiver will select an AC3+ track (when available)."
 msgstr "Lorsqu'elle est activée, le récepteur sélectionne une piste AC3+ (si disponible)."
 
+msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
+msgstr "Lorsqu’il est activé, ce paramètre a plus de poids que ‘Tuner préféré pour enregistrer’."
+
+msgid "When enabled, this setting has more weight than 'Preferred tuner'."
+msgstr "Lorsqu’il est activé, ce paramètre a plus de poids que ‘Tuner préféré’."
+
 msgid "When enabled, timeshift starts automatically in background after specified time."
 msgstr "Lorsqu'elle est activée, la PauseDirect démarre automatiquement en tâche de fond après le temps spécifié."
 
@@ -7351,6 +7457,9 @@ msgstr ""
 "Lorsque la réinitialisation usine sera accomplie, votre récepteur redémarrera automatiquement!\n"
 "\n"
 "Voulez-vous vraiment faire une réinitialisation usine?"
+
+msgid "When you use the remote fallback tuner to do recording, the timer conflict detection can't handle remote fallback tuners. This option allows you to turn off the timer confict detection"
+msgstr "Lorsque vous utilisez le tuner distant de repli pour effectuer l’enregistrement, la détection des conflits de programmation ne peut pas gérer à distance les tuners de repli. Cette option vous permet de désactiver la détection des conflicts de programmation."
 
 msgid "Where do you want to backup your settings?"
 msgstr "Où voulez-vous sauver vos paramètres ?"
@@ -7391,6 +7500,9 @@ msgstr "Erreur d'écriture lors de l'enregistrement. Disque plein?\n"
 msgid "Write failed!"
 msgstr "Échec d'écriture!"
 
+msgid "Write to /tmp/positionersetup.log"
+msgstr "Ecrire dans /tmp/positionersetup.log"
+
 msgid "YPbPr"
 msgstr "YPbPr"
 
@@ -7405,6 +7517,9 @@ msgstr "Sous-titres DVB jaune"
 
 msgid "Yes"
 msgstr "Oui"
+
+msgid "Yes (save index in setup tuner)"
+msgstr "Oui (sauvegarder l’index dans la configuration du tuner)"
 
 msgid "Yes and save"
 msgstr "Oui et sauvegarder"

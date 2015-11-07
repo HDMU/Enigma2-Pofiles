@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-21 18:42+0300\n"
+"POT-Creation-Date: 2015-11-01 21:38+0200\n"
 "PO-Revision-Date: 2014-11-12 00:49+0200\n"
 "Last-Translator: Tapat <taapat@gmail.com>\n"
 "Language-Team: Taapat <taapat@gmail.com>\n"
@@ -516,9 +516,6 @@ msgstr ""
 "Pašreiz notiek ieraksts.\n"
 "Ko vēlaties darīt?"
 
-msgid "A recording is currently running. Please stop the recording before trying to configure the positioner."
-msgstr "Pašreiz notiek ieraksts. Pirms konfigurējat pozicionieri lūdzu apturiet ierakstu."
-
 msgid "A recording is currently running. Please stop the recording before trying to scan."
 msgstr "Pašreiz notiek ieraksts. Pirms mēģināt meklēt lūdzu apturiet ierakstu."
 
@@ -570,6 +567,9 @@ msgstr "AAC dekodēšana"
 
 msgid "AC3 downmix"
 msgstr "AC3 dekodēšana"
+
+msgid "AGC:"
+msgstr "AGC:"
 
 msgid "Abort"
 msgstr "Atcelt"
@@ -764,7 +764,13 @@ msgid "Always ask"
 msgstr "Vienmēr jautāt"
 
 msgid "Always hide infobar"
-msgstr "vienmēr slēpt infojoslu"
+msgstr "Vienmēr slēpt infojoslu"
+
+msgid "Always include ECM in recordings"
+msgstr "Vienmēr iekļaut ECM ierakstos"
+
+msgid "Always include ECM messages in recordings. This overrides the individual timer settings globally. It allows recordings to be always decrypted afterwards (sometimes called offline decoding), if supported by your receiver. Default: off."
+msgstr "Vienmēr iekļaut ECM informāciju ierakstos. Globāli ignorē individuālus taimeru iestatījumus. Tas nodrošina ierakstu atšifrēšanu (veikt bezsaistes dekodēšanu), ja jūsu uztvērējs to nodrošina. Pēc noklusējuma izslēgts."
 
 msgid "An empty filename is illegal."
 msgstr "Faila nosaukums nevar būt tukšs."
@@ -915,6 +921,9 @@ msgstr "Autorizēšanas režīms"
 #. TRANSLATORS: (aspect ratio policy: always try to display as fullscreen, when there is no content (black bars) on left/right, even if this breaks the aspect.
 msgid "Auto"
 msgstr "Automātiski"
+
+msgid "Auto EXIF Orientation rotation/flipping"
+msgstr "Automātiska attēla attēlošana izmantojot EXIF datus"
 
 msgid "Auto chapter split every ? minutes (0=never)"
 msgstr "Automātiska nodaļu veidošana katras ? minūtes (0=neveidot)"
@@ -1372,6 +1381,9 @@ msgstr "Uzstāda vai un kā tiks attēlots ieraksta indikators kanālu srakstā.
 msgid "Configure if and how wide columns will be shown in the channel selection list."
 msgstr "Uzstāda vai un kādā platumā kolona tiks attēlota kanālu srakstā."
 
+msgid "Configure if behind the subtitles a background is shown."
+msgstr "Uzstāda vai subtitriem lietot tumšu fonu."
+
 msgid "Configure if service picons will be shown in the channel selection list."
 msgstr "Uzstāda vai kanālu pikonas tiks rādītas kanālu sarakstā."
 
@@ -1657,6 +1669,9 @@ msgstr "Pieslēdz pavadoņus"
 msgid "Connected to"
 msgstr "Pieslēgts"
 
+msgid "Console"
+msgstr "Konsole"
+
 msgid "Constellation"
 msgstr "Modulācijas veids"
 
@@ -1751,6 +1766,9 @@ msgstr ""
 #, python-format
 msgid "Current mode: %s \n"
 msgstr "Pašreizējais režīms: %s \n"
+
+msgid "Current rotor position: "
+msgstr "Pašreizējā rotora pozīcija: "
 
 msgid "Current settings:"
 msgstr "Pašreizējie iestatījumi:"
@@ -1965,8 +1983,11 @@ msgstr "Dzēsts"
 msgid "Depth"
 msgstr "Dziļi"
 
-msgid "Descramble http streams"
-msgstr "Dekodēt http plūsmas"
+msgid "Descramble receiving http streams"
+msgstr "Dekodēt saņemtās http straumes"
+
+msgid "Descramble sending http streams"
+msgstr "Dekodēt sūtītās http straumes"
 
 msgid "Description"
 msgstr "Apraksts"
@@ -2358,8 +2379,14 @@ msgstr "Aktivizēt Enigma2 uztvērēju, kuru izmatot lai mēģinātu uztvert kan
 msgid "Enable teletext caching"
 msgstr "Aktivizēt teleteksta kešošanu"
 
+msgid "Enable timer conflict detection"
+msgstr "Aktivizēt taimeru konflikta noteikšanu"
+
 msgid "Enable volume control with arrow buttons"
 msgstr "Aktivizēt skaļuma regulēšanu ar virziena pogām"
+
+msgid "Enable wakeup timer"
+msgstr "Aktivizēt pamodināšanas taimeri"
 
 msgid "Enable zapping with CH+/-, B+/-, P+/-"
 msgstr "Lietot kanālu pārslēgšanai CH+/-, B+/-, P+/-"
@@ -2499,6 +2526,9 @@ msgstr "Iziet no tīkla iestatīšanas vedņa"
 msgid "Exit the wizard"
 msgstr "Iziet no vedņa"
 
+msgid "Exit/OK"
+msgstr "Iziet/OK"
+
 msgid "Expert"
 msgstr "Lietpratēja"
 
@@ -2559,6 +2589,9 @@ msgstr "F1/F3"
 
 msgid "FEC"
 msgstr "FEC"
+
+msgid "FEC:"
+msgstr "FEC:"
 
 msgid "FTA"
 msgstr "FTA"
@@ -3427,6 +3460,9 @@ msgstr "Maksimālā pozīcija atmiņā"
 msgid "Max. bitrate: "
 msgstr "Max. bitreits: "
 
+msgid "Maybe the reason that recording is currently running. Please stop the recording before trying to configure the positioner."
+msgstr "Varbūt pašreiz notiek ieraksts. Pirms konfigurējat pozicionieri lūdzu apturiet ierakstu."
+
 msgid "Media player"
 msgstr "Mediju atskaņotājs"
 
@@ -3675,6 +3711,12 @@ msgstr "Tīkla vednis"
 msgid "Network:"
 msgstr "Tīkls:"
 
+msgid "Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off."
+msgstr "Neveikt satura atšifrēšanu kad ieraksta. Globāli ignorē individuālus taimeru iestatījumus. Ja iespējots, tad ieraksti tiks saglabāti šifrēti un tos vajadzēs pēc tam atšifrēt (veikt bezsaistes dekodēšanu). Pēc noklusējuma izslēgts."
+
+msgid "Never decrypt while recording"
+msgstr "Neveikt atšifrēšanu kad ieraksta"
+
 msgid "New"
 msgstr "Jauns"
 
@@ -3832,6 +3874,9 @@ msgstr "Nē, bet pārstartēt no sākuma"
 msgid "No, do nothing."
 msgstr "Nē, nedarīt neko"
 
+msgid "No, except Wakeup timer"
+msgstr "Lietojot pamodināšanas taimeri"
+
 msgid "No, just start my receiver"
 msgstr "Nē, tikai startēt uztvērēju"
 
@@ -3866,6 +3911,9 @@ msgstr "Nav konfigurēts"
 #, python-format
 msgid "Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)"
 msgstr "Nav pietiekami vietas uz diska. Lūdzu atbrīvot vietu uz diska un mēģināt vēlreiz. (%d MB ir nepieciešami, bet %d MB pieejami)"
+
+msgid "Note: when enabled, and you do want standby mode after wake up, set option 'Startup to Standby' as 'No, except Wakeup timer'."
+msgstr "Ja iespējots, bet vēlaties pāriet gaidstāvē pēc ieslēgšanas iestatījumā 'Ieslēdzot pāriet gaidstāvē' norādiet 'Lietojot pamodināšanas taimeri'"
 
 msgid "Nothing connected"
 msgstr "Nav pieslēgts"
@@ -3955,6 +4003,9 @@ msgstr "Atvērt izvēlēto mapi ar taimera nosaukumu"
 
 msgid "Open service list"
 msgstr "Atvērt kanālu sarakstu"
+
+msgid "Open setup tuner "
+msgstr "Atvērt iestatījumus uztvērējam "
 
 msgid "Open the movie list"
 msgstr "Atvērt filmu sarakstu"
@@ -4323,9 +4374,6 @@ msgstr "Spraudņi"
 msgid "Polarisation"
 msgstr "Polarizācija"
 
-msgid "Polarisation:"
-msgstr "Polarizācija:"
-
 msgid "Polarization"
 msgstr "Polarizācija"
 
@@ -4359,11 +4407,11 @@ msgstr "Pozicionieris"
 msgid "Positioner (selecting satellites)"
 msgstr "Pozicionieris (izvēlieties pavadoņus)"
 
-msgid "Positioner Setup"
-msgstr "Pozicioniera iestatījumi"
-
 msgid "Positioner setup"
 msgstr "Pozicioniera iestatījumi"
+
+msgid "Positioner setup log"
+msgstr "Pozicioniera iestatījumu logs"
 
 msgid "Power threshold in mA"
 msgstr "Barošanas robežvērtība mA"
@@ -4392,6 +4440,24 @@ msgstr "Katram kanālam saglabāt ieteicamos subtitrus"
 msgid "Preferred tuner"
 msgstr "Ieteicamais uztvērējs"
 
+msgid "Preferred tuner DVB-C"
+msgstr "Ieteicamais DVB-C uztvērējs"
+
+msgid "Preferred tuner DVB-C for recordings"
+msgstr "Ieteicamais DVB-C uztvērējs ierakstam"
+
+msgid "Preferred tuner DVB-S"
+msgstr "Ieteicamais DVB-S uztvērējs"
+
+msgid "Preferred tuner DVB-S for recordings"
+msgstr "Ieteicamais DVB-S uztvērējs ierakstam"
+
+msgid "Preferred tuner DVB-T"
+msgstr "Ieteicamais DVB-T uztvērējs"
+
+msgid "Preferred tuner DVB-T for recordings"
+msgstr "Ieteicamais DVB-T uztvērējs ierakstam"
+
 msgid "Preferred tuner for recordings"
 msgstr "Ieteicamais uztvērējs ierakstam"
 
@@ -4409,6 +4475,9 @@ msgstr "Papildus informācijai spiediet INFO uz tālvadības pults."
 
 msgid "Press MENU on your remote control for additional options."
 msgstr "Papildus iespējām spiediet MENU uz tālvadības pults."
+
+msgid "Press OK and configure the days and times wakeup receiver from deep standby mode."
+msgstr "Spiediet OK lai norādītu dienas un laiku kad pamodināt uztvērēju no dziļā gaidīšanas režīma."
 
 msgid "Press OK on your remote control to continue."
 msgstr "Spiediet OK uz tālvadības pults, lai turpinātu."
@@ -4446,6 +4515,9 @@ msgstr "Nospiediet OK, lai pārslēgtu izvēli"
 
 msgid "Press OK to toggle the selection."
 msgstr "Nospiediet OK, lai pārslēgtu izvēli."
+
+msgid "Press OK, save and exit..."
+msgstr "Spiediet OK, lai saglabātu un izietu..."
 
 msgid "Press yellow to set this interface as default interface."
 msgstr "Spiediet dzelteno, lai iestatītu šo interfeisu kā noklusējuma."
@@ -4595,6 +4667,10 @@ msgstr "Vai tiešām pārstartēt tagad?"
 
 msgid "Really shutdown now?"
 msgstr "Vai tiešām izslēgt tagad?"
+
+#, python-format
+msgid "Really store at index %2d for current position?"
+msgstr "Vai tiešām saglabāt numuru %2d pašreizējai pozīcijai?"
 
 msgid "Really upgrade the frontprocessor and reboot now?"
 msgstr "Vai tiešām atjaunot frontprocesoru un pārstartēt tagad?"
@@ -5195,6 +5271,9 @@ msgstr "Izvēlieties pavadoni"
 msgid "Select service to add..."
 msgstr "Izvēlieties kanālu kuru pievienot..."
 
+msgid "Select slot"
+msgstr "Izvēlieties slotu"
+
 msgid "Select sort method:"
 msgstr "Izvēlieties kārtošanas metodi:"
 
@@ -5405,6 +5484,9 @@ msgstr "Rādīt bezvadu tīkla statusu"
 
 msgid "Show animation while busy"
 msgstr "Rādīt animāciju kad aizņemts"
+
+msgid "Show background behind subtitles"
+msgstr "Subtitriem lietot fonu"
 
 msgid "Show background in radio mode"
 msgstr "Rādīt fona attēlu radio režīmā"
@@ -5716,6 +5798,9 @@ msgstr "Atvainojiet, dublējumkopijas nav atrastas!"
 
 msgid "Sorry, no details available!"
 msgstr "Atvainojiet, informācija nav pieejama!"
+
+msgid "Sorry, this tuner is in use."
+msgstr "Atvainojiet, šis uztvērējs tiek lietots."
 
 msgid ""
 "Sorry, your backup destination is not writeable.\n"
@@ -7089,8 +7174,17 @@ msgstr "Pamodināt uztvērēju no gidstāves"
 msgid "Wakeup signal from TV"
 msgstr "Pamodināšanas signāls no TV"
 
+msgid "Wakeup time"
+msgstr "Pamodināšanas laiks"
+
+msgid "Wakeup timer"
+msgstr "Pamodināšanas taimeris"
+
 msgid "Wakeup type"
 msgstr "Pamodināšanas tips"
+
+msgid "WakeupTimer Configuration"
+msgstr "Pamodināšanas taimera iestatījumi"
 
 msgid "Warning"
 msgstr "Brīdinājums"
@@ -7228,6 +7322,9 @@ msgstr "Ja ieslēgts, tiks atļauts ieraksts ignorējot tiešās pārraides ja n
 msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
 msgstr "Ja ieslēgts, tiks parādīts brīdinājums un lietotājs varēs izvēlēties vai apstādīnāt, vai turpināt laika aizturi."
 
+msgid "When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of this setting. Default off."
+msgstr "Ja ieslēgts, http straumes tiks dekodētas. Tas prasa vairāk resursus dekodēsanai un demuksēšanai tādēļ lietojiet tikai tad ja nepieciešmas. Neatkarīgi no šī iestatījuma straumes tiks dekodētas ja 0x100 norādīts pie servisa tipa. Pēc noklusējuma izslēgts."
+
 msgid "When enabled, authentication is required to watch http streams."
 msgstr "Ja ieslēgts, nepieciešama autentifikācija lai skatītos http straumējumu"
 
@@ -7270,8 +7367,8 @@ msgstr "Ja ieslēgts, grafiskie DVB subtitri tiks parādīti to oriģinālajā p
 msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
 msgstr "Ja ieslēgts, grafiskie DVB subtitri tiks rādīti dzeltenā krāsā, neatkarīgi no oriģinālās."
 
-msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling."
-msgstr "Ja ieslēgts, http plūsmas tiks dekodētas serverī. Attālinātiem klientu uztvērējiem nebūs jādekodē."
+msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on."
+msgstr "Ja ieslēgts, http straumes tiks dekodētas serverī. Klientiem nebūs jādekodē. Pēc noklusējuma ieslēgts."
 
 msgid "When enabled, it is possible to leave the movieplayer with exit."
 msgstr "Ja ieslēgts, ir iespējams iziet no filmu atskaņotāja ar exit taustiņu."
@@ -7336,6 +7433,12 @@ msgstr "Ja ieslēgts, uztvērējs izvēlēsies AC3 celiņu (ja pieejams)."
 msgid "When enabled, the receiver will select an AC3+ track (when available)."
 msgstr "Ja ieslēgts, uztvērējs izvēlēsies AC3+ celiņu (ja pieejams)."
 
+msgid "When enabled, this setting has more weight than 'Preferred tuner for recordings'."
+msgstr "Ja ieslēgts, šis iestatījums tiks lietots 'Ieteicamais uztvērējs ierakstam' vietā."
+
+msgid "When enabled, this setting has more weight than 'Preferred tuner'."
+msgstr "Ja ieslēgts, šis iestatījums tiks lietots 'Ieteicamais uztvērējs' vietā."
+
 msgid "When enabled, timeshift starts automatically in background after specified time."
 msgstr "Ja ieslēgts, pēc norādītā laika laika aizture sāksies fonā automātiski."
 
@@ -7369,6 +7472,9 @@ msgstr ""
 "Pēc rūpnīcas iestatījumu atjaunošanas, ierīce automātiski pārstartēsies!\n"
 "\n"
 "Vai tiešām atjaunot rūpnīcas iestatījumus?"
+
+msgid "When you use the remote fallback tuner to do recording, the timer conflict detection can't handle remote fallback tuners. This option allows you to turn off the timer confict detection"
+msgstr "Ja jūs ierakstam lietojat citu uztvērēju, tad taimeru konflikta noteikšanu var veikt šis uztvērējs. Šis iestatījums atļauj izslēgt taimeru konflikta noteikšanu."
 
 msgid "Where do you want to backup your settings?"
 msgstr "Kur Jūs vēlaties veidot savu iestatījumu dublējumkopiju?"
@@ -7409,6 +7515,9 @@ msgstr "Rakstīšanas kļūda ieraksta laikā. Vai disks ir pilns?\n"
 msgid "Write failed!"
 msgstr "Rakstīšana neizdevās!"
 
+msgid "Write to /tmp/positionersetup.log"
+msgstr "Saglabā /tmp/positionersetup.log"
+
 msgid "YPbPr"
 msgstr "YPbPr"
 
@@ -7423,6 +7532,9 @@ msgstr "Dzelteni DVB subtitri"
 
 msgid "Yes"
 msgstr "Jā"
+
+msgid "Yes (save index in setup tuner)"
+msgstr "Jā (saglabāt numuru uztvērēja iestatījumos)"
 
 msgid "Yes and save"
 msgstr "Jā un saglabāt"
