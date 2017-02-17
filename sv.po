@@ -10607,9 +10607,6 @@ msgstr ""
 msgid "History"
 msgstr ""
 
-msgid "Convert ext3 filesystem to ext4"
-msgstr "Konvertera filsystemet ext3 till ext4"
-
 #~ msgid "%d-%b-%Y %-H:%M"
 #~ msgstr "%d-%b-%Y %-H:%M"
 

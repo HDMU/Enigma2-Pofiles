@@ -9183,9 +9183,6 @@ msgstr "verwijder alle 'nieuw gevonden' markeringen"
 msgid "remove before this position"
 msgstr "Verwijder voor deze positie"
 
-msgid "remove bookmark"
-msgstr "Markeerpunt verwijderen"
-
 msgid "remove bouquet from parental protection"
 msgstr "verwijder bouquet uit het kinderslot"
 
